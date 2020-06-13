@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="21896222-1db8-49d7-afcb-aa69879c3eaf" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="$MAVEN_REPOSITORY$" />
+        <option name="userSettingsFile" value="$USER_HOME$/.m2/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1cPViU5P0jMGs7eJNKION5VPq8w" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.SortComparator">
+    <configuration name="BinarySearchRotated" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BinarySearchRotated" />
+      <module name="AlgoDataStruct" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Division" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array.Division" />
+      <module name="AlgoDataStruct" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Power" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Numbers.Power" />
+      <module name="AlgoDataStruct" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Numbers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SortComparator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SearchSort.SortComparator" />
+      <module name="AlgoDataStruct" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SearchSort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Stringswap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="String.Stringswap" />
+      <module name="AlgoDataStruct" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="String.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SortComparator" />
+        <item itemvalue="Application.Power" />
+        <item itemvalue="Application.Stringswap" />
+        <item itemvalue="Application.BinarySearchRotated" />
+        <item itemvalue="Application.Division" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../example" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../recfun" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="21896222-1db8-49d7-afcb-aa69879c3eaf" name="Default Changelist" comment="" />
+      <created>1590430342549</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590430342549</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="465" height="466" key="DebuggerActiveHint" timestamp="1591560724166">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="465" height="466" key="DebuggerActiveHint/0.23.1440.797@0.23.1440.797" timestamp="1591560724166" />
+    <state width="1375" height="197" key="GridCell.Tab.0.bottom" timestamp="1592019488389">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="1375" height="197" key="GridCell.Tab.0.bottom/0.23.1440.797@0.23.1440.797" timestamp="1592019488389" />
+    <state width="1375" height="197" key="GridCell.Tab.0.bottom/0.23.1440.798@0.23.1440.798" timestamp="1590432442414" />
+    <state width="1375" height="197" key="GridCell.Tab.0.center" timestamp="1592019488389">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="1375" height="197" key="GridCell.Tab.0.center/0.23.1440.797@0.23.1440.797" timestamp="1592019488389" />
+    <state width="1375" height="197" key="GridCell.Tab.0.center/0.23.1440.798@0.23.1440.798" timestamp="1590432442413" />
+    <state width="1375" height="197" key="GridCell.Tab.0.left" timestamp="1592019488388">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="1375" height="197" key="GridCell.Tab.0.left/0.23.1440.797@0.23.1440.797" timestamp="1592019488388" />
+    <state width="1375" height="197" key="GridCell.Tab.0.left/0.23.1440.798@0.23.1440.798" timestamp="1590432442413" />
+    <state width="1375" height="197" key="GridCell.Tab.0.right" timestamp="1592019488389">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="1375" height="197" key="GridCell.Tab.0.right/0.23.1440.797@0.23.1440.797" timestamp="1592019488389" />
+    <state width="1375" height="197" key="GridCell.Tab.0.right/0.23.1440.798@0.23.1440.798" timestamp="1590432442413" />
+    <state width="1375" height="245" key="GridCell.Tab.1.bottom" timestamp="1591850795970">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="1375" height="245" key="GridCell.Tab.1.bottom/0.23.1440.797@0.23.1440.797" timestamp="1591850795970" />
+    <state width="1375" height="245" key="GridCell.Tab.1.bottom/0.23.1440.798@0.23.1440.798" timestamp="1590431064941" />
+    <state width="1375" height="245" key="GridCell.Tab.1.center" timestamp="1591850795969">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="1375" height="245" key="GridCell.Tab.1.center/0.23.1440.797@0.23.1440.797" timestamp="1591850795969" />
+    <state width="1375" height="245" key="GridCell.Tab.1.center/0.23.1440.798@0.23.1440.798" timestamp="1590431064941" />
+    <state width="1375" height="245" key="GridCell.Tab.1.left" timestamp="1591850795969">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="1375" height="245" key="GridCell.Tab.1.left/0.23.1440.797@0.23.1440.797" timestamp="1591850795969" />
+    <state width="1375" height="245" key="GridCell.Tab.1.left/0.23.1440.798@0.23.1440.798" timestamp="1590431064940" />
+    <state width="1375" height="245" key="GridCell.Tab.1.right" timestamp="1591850795970">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="1375" height="245" key="GridCell.Tab.1.right/0.23.1440.797@0.23.1440.797" timestamp="1591850795970" />
+    <state width="1375" height="245" key="GridCell.Tab.1.right/0.23.1440.798@0.23.1440.798" timestamp="1590431064941" />
+    <state x="199" y="23" key="SettingsEditor" timestamp="1590430386359">
+      <screen x="0" y="23" width="1440" height="798" />
+    </state>
+    <state x="199" y="23" key="SettingsEditor/0.23.1440.798@0.23.1440.798" timestamp="1590430386359" />
+    <state x="370" y="169" width="683" height="486" key="find.popup" timestamp="1592086868204">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="370" y="169" width="683" height="486" key="find.popup/0.23.1440.797@0.23.1440.797" timestamp="1592086868204" />
+    <state x="376" y="144" width="670" height="676" key="search.everywhere.popup" timestamp="1592018301417">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="376" y="144" width="670" height="676" key="search.everywhere.popup/0.23.1440.797@0.23.1440.797" timestamp="1592018301417" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/String/PalindromeSubstring.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Array/LongturbArray.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Tree/ConstructTree.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Array/Division.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Array/Division.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/BinarySearchRotated.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/String/Stringswap.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Numbers/Power.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
