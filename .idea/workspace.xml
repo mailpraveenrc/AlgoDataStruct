@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="21896222-1db8-49d7-afcb-aa69879c3eaf" name="Default Changelist" comment="" />
+    <list default="true" id="21896222-1db8-49d7-afcb-aa69879c3eaf" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HappyNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ShoppingCart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SortOnMultipleParam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringPattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringRestaurent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Zigzagstring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AlgoDataStruct/String/PalindromeSubstring.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AlgoDataStruct/String/PalindromeSubstring.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/String/PalindromeSubstring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String/PalindromeSubstring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/heap/MinMaxHeap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/heap/MinMaxHeap.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +30,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -29,6 +45,7 @@
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1cPViU5P0jMGs7eJNKION5VPq8w" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="autoscrollToSource" value="true" />
@@ -38,6 +55,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
@@ -49,73 +67,49 @@
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SortComparator">
-    <configuration name="BinarySearchRotated" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BinarySearchRotated" />
+  <component name="RunManager" selected="Application.SortOnMultipleParam">
+    <configuration name="ShoppingCart" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ShoppingCart" />
       <module name="AlgoDataStruct" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Division" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array.Division" />
+    <configuration name="SortOnMultipleParam" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SortOnMultipleParam" />
       <module name="AlgoDataStruct" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Array.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Power" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Numbers.Power" />
+    <configuration name="StringPattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringPattern" />
       <module name="AlgoDataStruct" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Numbers.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SortComparator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SearchSort.SortComparator" />
+    <configuration name="StringRestaurent" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringRestaurent" />
       <module name="AlgoDataStruct" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="SearchSort.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Stringswap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="String.Stringswap" />
+    <configuration name="Zigzagstring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Zigzagstring" />
       <module name="AlgoDataStruct" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="String.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SortComparator" />
-        <item itemvalue="Application.Power" />
-        <item itemvalue="Application.Stringswap" />
-        <item itemvalue="Application.BinarySearchRotated" />
-        <item itemvalue="Application.Division" />
+        <item itemvalue="Application.SortOnMultipleParam" />
+        <item itemvalue="Application.ShoppingCart" />
+        <item itemvalue="Application.StringRestaurent" />
+        <item itemvalue="Application.StringPattern" />
+        <item itemvalue="Application.Zigzagstring" />
       </list>
     </recent_temporary>
   </component>
@@ -153,71 +147,75 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="465" height="466" key="DebuggerActiveHint" timestamp="1591560724166">
+    <state x="524" y="103" key="#com.intellij.ide.util.MemberChooser" timestamp="1593546880884">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
-    <state width="465" height="466" key="DebuggerActiveHint/0.23.1440.797@0.23.1440.797" timestamp="1591560724166" />
-    <state width="1375" height="197" key="GridCell.Tab.0.bottom" timestamp="1592019488389">
+    <state x="524" y="103" key="#com.intellij.ide.util.MemberChooser/0.23.1440.797@0.23.1440.797" timestamp="1593546880884" />
+    <state width="465" height="466" key="DebuggerActiveHint" timestamp="1593383955299">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
-    <state width="1375" height="197" key="GridCell.Tab.0.bottom/0.23.1440.797@0.23.1440.797" timestamp="1592019488389" />
+    <state width="465" height="466" key="DebuggerActiveHint/0.23.1440.797@0.23.1440.797" timestamp="1593383955299" />
+    <state width="1375" height="197" key="GridCell.Tab.0.bottom" timestamp="1593550512185">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="1375" height="197" key="GridCell.Tab.0.bottom/0.23.1440.797@0.23.1440.797" timestamp="1593550512185" />
     <state width="1375" height="197" key="GridCell.Tab.0.bottom/0.23.1440.798@0.23.1440.798" timestamp="1590432442414" />
-    <state width="1375" height="197" key="GridCell.Tab.0.center" timestamp="1592019488389">
+    <state width="1375" height="197" key="GridCell.Tab.0.center" timestamp="1593550512185">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
-    <state width="1375" height="197" key="GridCell.Tab.0.center/0.23.1440.797@0.23.1440.797" timestamp="1592019488389" />
+    <state width="1375" height="197" key="GridCell.Tab.0.center/0.23.1440.797@0.23.1440.797" timestamp="1593550512185" />
     <state width="1375" height="197" key="GridCell.Tab.0.center/0.23.1440.798@0.23.1440.798" timestamp="1590432442413" />
-    <state width="1375" height="197" key="GridCell.Tab.0.left" timestamp="1592019488388">
+    <state width="1375" height="197" key="GridCell.Tab.0.left" timestamp="1593550512184">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
-    <state width="1375" height="197" key="GridCell.Tab.0.left/0.23.1440.797@0.23.1440.797" timestamp="1592019488388" />
+    <state width="1375" height="197" key="GridCell.Tab.0.left/0.23.1440.797@0.23.1440.797" timestamp="1593550512184" />
     <state width="1375" height="197" key="GridCell.Tab.0.left/0.23.1440.798@0.23.1440.798" timestamp="1590432442413" />
-    <state width="1375" height="197" key="GridCell.Tab.0.right" timestamp="1592019488389">
+    <state width="1375" height="197" key="GridCell.Tab.0.right" timestamp="1593550512185">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
-    <state width="1375" height="197" key="GridCell.Tab.0.right/0.23.1440.797@0.23.1440.797" timestamp="1592019488389" />
+    <state width="1375" height="197" key="GridCell.Tab.0.right/0.23.1440.797@0.23.1440.797" timestamp="1593550512185" />
     <state width="1375" height="197" key="GridCell.Tab.0.right/0.23.1440.798@0.23.1440.798" timestamp="1590432442413" />
-    <state width="1375" height="245" key="GridCell.Tab.1.bottom" timestamp="1591850795970">
+    <state width="1375" height="245" key="GridCell.Tab.1.bottom" timestamp="1593478822741">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
-    <state width="1375" height="245" key="GridCell.Tab.1.bottom/0.23.1440.797@0.23.1440.797" timestamp="1591850795970" />
+    <state width="1375" height="245" key="GridCell.Tab.1.bottom/0.23.1440.797@0.23.1440.797" timestamp="1593478822741" />
     <state width="1375" height="245" key="GridCell.Tab.1.bottom/0.23.1440.798@0.23.1440.798" timestamp="1590431064941" />
-    <state width="1375" height="245" key="GridCell.Tab.1.center" timestamp="1591850795969">
+    <state width="1375" height="245" key="GridCell.Tab.1.center" timestamp="1593478822740">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
-    <state width="1375" height="245" key="GridCell.Tab.1.center/0.23.1440.797@0.23.1440.797" timestamp="1591850795969" />
+    <state width="1375" height="245" key="GridCell.Tab.1.center/0.23.1440.797@0.23.1440.797" timestamp="1593478822740" />
     <state width="1375" height="245" key="GridCell.Tab.1.center/0.23.1440.798@0.23.1440.798" timestamp="1590431064941" />
-    <state width="1375" height="245" key="GridCell.Tab.1.left" timestamp="1591850795969">
+    <state width="1375" height="245" key="GridCell.Tab.1.left" timestamp="1593478822740">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
-    <state width="1375" height="245" key="GridCell.Tab.1.left/0.23.1440.797@0.23.1440.797" timestamp="1591850795969" />
+    <state width="1375" height="245" key="GridCell.Tab.1.left/0.23.1440.797@0.23.1440.797" timestamp="1593478822740" />
     <state width="1375" height="245" key="GridCell.Tab.1.left/0.23.1440.798@0.23.1440.798" timestamp="1590431064940" />
-    <state width="1375" height="245" key="GridCell.Tab.1.right" timestamp="1591850795970">
+    <state width="1375" height="245" key="GridCell.Tab.1.right" timestamp="1593478822741">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
-    <state width="1375" height="245" key="GridCell.Tab.1.right/0.23.1440.797@0.23.1440.797" timestamp="1591850795970" />
+    <state width="1375" height="245" key="GridCell.Tab.1.right/0.23.1440.797@0.23.1440.797" timestamp="1593478822741" />
     <state width="1375" height="245" key="GridCell.Tab.1.right/0.23.1440.798@0.23.1440.798" timestamp="1590431064941" />
     <state x="199" y="23" key="SettingsEditor" timestamp="1590430386359">
       <screen x="0" y="23" width="1440" height="798" />
     </state>
     <state x="199" y="23" key="SettingsEditor/0.23.1440.798@0.23.1440.798" timestamp="1590430386359" />
-    <state x="370" y="169" width="683" height="486" key="find.popup" timestamp="1592086868204">
+    <state x="370" y="170" width="683" height="489" key="find.popup" timestamp="1592523830216">
+      <screen x="0" y="23" width="1440" height="801" />
+    </state>
+    <state x="370" y="169" width="683" height="486" key="find.popup/0.23.1440.797@0.23.1440.797" timestamp="1592167935649" />
+    <state x="370" y="170" width="683" height="489" key="find.popup/0.23.1440.801@0.23.1440.801" timestamp="1592523830216" />
+    <state x="88" y="34" key="new project wizard" timestamp="1592348328214">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
-    <state x="370" y="169" width="683" height="486" key="find.popup/0.23.1440.797@0.23.1440.797" timestamp="1592086868204" />
-    <state x="376" y="144" width="670" height="676" key="search.everywhere.popup" timestamp="1592018301417">
+    <state x="88" y="34" key="new project wizard/0.23.1440.797@0.23.1440.797" timestamp="1592348328214" />
+    <state x="376" y="144" width="670" height="676" key="search.everywhere.popup" timestamp="1593464867961">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
-    <state x="376" y="144" width="670" height="676" key="search.everywhere.popup/0.23.1440.797@0.23.1440.797" timestamp="1592018301417" />
+    <state x="376" y="144" width="670" height="676" key="search.everywhere.popup/0.23.1440.797@0.23.1440.797" timestamp="1593464867961" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/String/PalindromeSubstring.java</url>
-          <line>11</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Array/LongturbArray.java</url>
           <line>11</line>
@@ -252,6 +250,31 @@
           <url>file://$PROJECT_DIR$/src/Numbers/Power.java</url>
           <line>4</line>
           <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/HappyNumbers.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/HappyNumbers.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Zigzagstring.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/StringPattern.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/StringRestaurent.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="23" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
